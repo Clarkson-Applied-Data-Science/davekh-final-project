@@ -406,4 +406,20 @@ Plotting a simple bar graph of the above dataframe to get an idea of how much co
 
 </blockquote>
 
+</br></br>
+
+## Other Important Citations
+****
+#### These citations are regarding vehicle emissions and their effects which I have used as a reference for my conclusions.
+
+</br>
+
+[www.nature.com](https://www.nature.com/articles/s41598-021-00862-x#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,of%20PM2.5%20emissions15)
+
+[www.pubmed.ncbi](https://pubmed.ncbi.nlm.nih.gov/15757346/)
+
+[www.springeropen.com](https://etrr.springeropen.com/articles/10.1007/s12544-017-0263-7)
+
+[www.epa.gov](https://www.epa.gov/no2-pollution/basic-information-about-no2
+)
 </div>
