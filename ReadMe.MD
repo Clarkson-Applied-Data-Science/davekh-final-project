@@ -124,15 +124,7 @@ dhl = ad.loc[df['City'] == "Delhi"]
 Describing both the data to fetch their mean in two different dictionary.
 </br></br>
 
-```python
-amd.describe()
-```
-
 ![This is an image](Images/ss/amD.png)
-
-```python
-dhl.describe()
-```
 ![This is an image](Images/ss/delhiD.png)
 
 </br></br>
