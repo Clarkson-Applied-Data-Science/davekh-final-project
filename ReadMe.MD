@@ -45,6 +45,8 @@
 
 **Project.ipynb** :- Contains all the data pre-processing and exploratory data analysis that took place.
 
+**Project.py** :- Just a executable script for the notebook version.
+
  </blockquote>
 </div>
 
