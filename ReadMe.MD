@@ -1,4 +1,4 @@
-# **Licensed licensed vehicles and AQI Analysis**
+# **Licensed vehicles and AQI Analysis**
 ### **Kahan Dave**
 </br></br>
 
